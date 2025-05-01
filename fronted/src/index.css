@@ -1,0 +1,26 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  * {
+
+      font-family: "Special Gothic Expanded One", sans-serif;
+      font-weight: 4500;
+      font-style: normal;
+    
+    
+  }
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Change the placeholder text color to light grey */
+input::placeholder {
+  color: #e0e0e0 !important; /* Lighter grey color for the placeholder */
+}
+#carouselExampleIndicators{
+max-height: 500px;
+}
